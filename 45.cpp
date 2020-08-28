@@ -10,6 +10,6 @@ int main()
 	for(int i=0;i<st.size();i++)
 	cout<<che[st[i]]<<endl;
 	
-	cout<<che['o']<<endl;
+	cout<<che['p']<<endl;
 	return 0;
 }
